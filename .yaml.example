@@ -1,0 +1,6 @@
+db_con:
+  driver: "ODBC Driver 18 for SQL Server"
+  server: "your_server"
+  database: "your_database"
+  uid: "your_uid"
+  pwd: "your_password"
