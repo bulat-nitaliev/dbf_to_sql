@@ -26,5 +26,7 @@ git clone https://github.com/bulat-nitaliev/dbf_to_sql.git
 python -m venv venv
 
 ```
+
+```
 pip install -r requirements.txt
 ```
